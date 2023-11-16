@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756190395681",
+    "project_id": "amaze-chat-4f4fc",
+    "storage_bucket": "amaze-chat-4f4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756190395681:android:57c535ef3a45c0e24ad260",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.w9641526.amazechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZmgQVt3dCXYfhJfY3HVAxayIUIuJzaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
