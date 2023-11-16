@@ -6,17 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".LogIn">
 
+
     <ImageView
         android:id="@+id/app_logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
         android:layout_marginTop="0dp"
         android:layout_marginBottom="0dp"
         android:src="@drawable/a" />
-
 
     <EditText
         android:id="@+id/edt_name"
@@ -27,7 +26,7 @@
         android:background="@drawable/edt_background"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:paddingLeft="150dp"/>
+        android:paddingLeft="15dp"/>
 
     <EditText
         android:id="@+id/edt_email"
@@ -39,7 +38,7 @@
         android:background="@drawable/edt_background"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:paddingLeft="150dp"/>
+        android:paddingLeft="15dp"/>
 
     <EditText
         android:id="@+id/edt_password"
@@ -51,7 +50,7 @@
         android:hint="Password"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:paddingLeft="130dp"/>
+        android:paddingLeft="15dp"/>
 
 
 
